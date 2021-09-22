@@ -63,7 +63,7 @@ public class ApplicationsOfStack {
 class Main {
     public static void main(String[] args) {
         ApplicationsOfStack ap = new ApplicationsOfStack();
-        String str = "";
+        String str = "{{[]}}";
         if (ap.CheckParantheis(str)) {
             System.out.println("Balanced");
         } else {

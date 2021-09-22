@@ -75,7 +75,7 @@ class SinglyMain{
             return temp;
         }
 
-        for(int i=1;i<=(pos)-2;i++){
+        for(int i=1                   ;i<=(pos)-2;i++){
             if(cur==null){
                 System.out.println("This position is not valid");
                 return head;
@@ -159,7 +159,7 @@ class SinglyMain{
         head=deleteLast(head);
         printList(head);
         System.out.println("---------------------");
-
+        System.out.println("insert");
         head=insertPos(head,7,2);
         printList(head);
         System.out.println("-------------------------");

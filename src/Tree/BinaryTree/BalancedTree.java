@@ -3,7 +3,7 @@
  *  Date: 8/11/2021
  *  Time: 8:21 PM
  */
-package Tree;
+package Tree.BinaryTree;
 
 public class BalancedTree {
     int key;

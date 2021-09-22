@@ -3,7 +3,7 @@
  *  Date: 8/11/2021
  *  Time: 8:22 PM
  */
-package Tree;
+package Tree.BinaryTree;
 
 //Firstly, Binary Tree can have atmost 2 child.
 
